@@ -1,7 +1,7 @@
 # Audio Programming with Unity
 ![GIF of walking around](https://raw.githubusercontent.com/giodestone/Audio-Programming-With-Unity/main/Images/GIF2.gif)
 
-Game which integrates prerecorded & synthesized audio effects and area-aware music into the Unity audio system. Made as coursework for a module in University.
+Game which integrates prerecorded & synthesized audio effects and area-aware music into the Unity audio system by providing reusable components. Made as coursework for a module in University.
 
 ## Running
 [Download](https://github.com/giodestone/Audio-Programming-With-Unity/releases)
